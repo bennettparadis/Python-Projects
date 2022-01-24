@@ -1,0 +1,20 @@
+
+# add any text between  triple quotes (makes entry all one long string
+
+text = """" 
+"""
+
+# split up the text word by word and len() will give the word count
+print(len(text.split()))
+
+# create dictionary
+word_count = {}
+
+# create loop that standardazies each word in lower case, then when the loop runs, each new word is added to the dictionary. If the word is already in the dictionary, add 1 to the count. If not, then the word_count is 1 because it's the first time coming across this word
+for word in text.lower().split():
+  if word in word_count:
+    word_count[word] += 1
+  else:
+    word_count[word] = 1
+
+print(word_count)
