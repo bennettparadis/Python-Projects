@@ -1,3 +1,5 @@
+# Python code for a "Number Guessing Game" from the Linkedin Course Python for Non-Programmers
+
 import random
 import time
 
