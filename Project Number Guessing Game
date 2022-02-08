@@ -1,4 +1,4 @@
-# Python code for a "Number Guessing Game" from the Linkedin Course Python for Non-Programmers mixed with Udemy Python Course Zero to Hero
+# Python code for a "Number Guessing Game" from the Linkedin Course Python for Non-Programmers mixed with a similar project in Udemy's Python Course Zero to Hero
 
 import random
 import time
