@@ -1,3 +1,6 @@
+# Python code for the game tic-tac-toe; derived from the Udemy course 2022 Python Bootcamp
+
+
 def display_board(board):
     print(board[7]+'|'+board[8]+'|'+board[9])
     print(board[4]+'|'+board[5]+'|'+board[6])
