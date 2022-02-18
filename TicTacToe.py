@@ -1,4 +1,4 @@
-# Python code for the game tic-tac-toe; derived from the Udemy course 2022 Python Bootcamp
+# Python code for the game tic-tac-toe; derived from the Udemy course 2022 Python Bootcamp. Tested on and compatible with both PyCharm and Jupyter Notebook
 
 
 def display_board(board):
